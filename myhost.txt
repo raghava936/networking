@@ -1,0 +1,2 @@
+[Managed_Node]
+192.168.56.101 ansible_ssh_user=raghava ansible_ssh_pass=Raghava@936
